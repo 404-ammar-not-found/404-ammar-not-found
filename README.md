@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Ammar Nagri. I am currently a mathematics and computer science student, aiming to specialise within machine learning.<br>Within mathematics and computer science, I have an interest in the optimisation and innovation of machine learning algorithms and applying machine learning within non-computer science related fields.<br>I also enjoy swimming, rock-climbing and write orchestra pieces in my free time.<br>
+My name is Ammar. I am currently a mathematics and computer science student, aiming to specialise within machine learning.<br>Within mathematics and computer science, I have an interest in the optimisation and innovation of machine learning algorithms and applying machine learning within non-computer science related fields.<br>I also enjoy swimming, rock-climbing and write orchestra pieces in my free time.<br>
 
 
 ## 🌐 Socials:
